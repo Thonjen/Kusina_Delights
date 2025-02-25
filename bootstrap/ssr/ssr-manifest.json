@@ -1,0 +1,210 @@
+{
+  "\u0000plugin-vue:export-helper": [
+    "/build/assets/_plugin-vue_export-helper-1tPrXgE0.js"
+  ],
+  "node_modules/laravel-vite-plugin/inertia-helpers/index.js": [],
+  "resources/js/Components/ApplicationLogo.vue": [
+    "/build/assets/ApplicationLogo-3H3I4iid.js"
+  ],
+  "resources/js/Components/DangerButton.vue": [
+    "/build/assets/DeleteUserForm-JErP_Yl2.js"
+  ],
+  "resources/js/Components/Dropdown.vue": [
+    "/build/assets/DropdownLink-DStkidMI.js"
+  ],
+  "resources/js/Components/DropdownLink.vue": [
+    "/build/assets/DropdownLink-DStkidMI.js"
+  ],
+  "resources/js/Components/InputError.vue": [
+    "/build/assets/TextInput-SoXY5mdM.js"
+  ],
+  "resources/js/Components/InputLabel.vue": [
+    "/build/assets/TextInput-SoXY5mdM.js"
+  ],
+  "resources/js/Components/Modal.vue": [
+    "/build/assets/DeleteUserForm-JErP_Yl2.js"
+  ],
+  "resources/js/Components/NavLink.vue": [
+    "/build/assets/Edit-CJoERMHV.js"
+  ],
+  "resources/js/Components/PrimaryButton.vue": [
+    "/build/assets/PrimaryButton-CIooT64n.js"
+  ],
+  "resources/js/Components/ResponsiveNavLink.vue": [
+    "/build/assets/Edit-CJoERMHV.js"
+  ],
+  "resources/js/Components/SecondaryButton.vue": [
+    "/build/assets/DeleteUserForm-JErP_Yl2.js"
+  ],
+  "resources/js/Components/TextInput.vue": [
+    "/build/assets/TextInput-SoXY5mdM.js"
+  ],
+  "resources/js/Components/backend/Header.vue": [
+    "/build/assets/backend-DaIRI2w_.js"
+  ],
+  "resources/js/Components/backend/Sidebar.vue": [
+    "/build/assets/backend-DaIRI2w_.js"
+  ],
+  "resources/js/Components/frontend/Footer.vue": [
+    "/build/assets/frontend-qce4MpuY.js"
+  ],
+  "resources/js/Components/frontend/Header.vue": [
+    "/build/assets/frontend-qce4MpuY.js"
+  ],
+  "resources/js/Components/frontend/SocialIcon.vue": [
+    "/build/assets/frontend-qce4MpuY.js"
+  ],
+  "resources/js/Layouts/AuthenticatedLayout.vue": [
+    "/build/assets/Edit-CJoERMHV.js"
+  ],
+  "resources/js/Layouts/GuestLayout.vue": [
+    "/build/assets/GuestLayout-BYI-PIZl.js"
+  ],
+  "resources/js/Layouts/backend.vue": [
+    "/build/assets/backend-DaIRI2w_.js"
+  ],
+  "resources/js/Layouts/frontend.vue": [
+    "/build/assets/frontend-qce4MpuY.js"
+  ],
+  "resources/js/Pages/Auth/ConfirmPassword.vue": [
+    "/build/assets/ConfirmPassword-7Q49rQs1.js"
+  ],
+  "resources/js/Pages/Auth/ForgotPassword.vue": [
+    "/build/assets/ForgotPassword-Db4o0OZq.js"
+  ],
+  "resources/js/Pages/Auth/Login.vue": [
+    "/build/assets/Login-CvfMgTIE.js",
+    "/build/assets/Login-Bf2PYBDd.css"
+  ],
+  "resources/js/Pages/Auth/Login.vue?vue&type=style&index=0&scoped=c687bade&lang.css": [
+    "/build/assets/Login-CvfMgTIE.js",
+    "/build/assets/Login-Bf2PYBDd.css"
+  ],
+  "resources/js/Pages/Auth/Register.vue": [
+    "/build/assets/Register-DNy1L7n5.js",
+    "/build/assets/Register-Do8oIMym.css"
+  ],
+  "resources/js/Pages/Auth/Register.vue?vue&type=style&index=0&scoped=1ddc5e01&lang.css": [
+    "/build/assets/Register-DNy1L7n5.js",
+    "/build/assets/Register-Do8oIMym.css"
+  ],
+  "resources/js/Pages/Auth/ResetPassword.vue": [
+    "/build/assets/ResetPassword-7HDg0-zg.js"
+  ],
+  "resources/js/Pages/Auth/VerifyEmail.vue": [
+    "/build/assets/VerifyEmail-D0Pmww7_.js"
+  ],
+  "resources/js/Pages/Chef/Create_post.vue": [
+    "/build/assets/Create_post-D-AYLJeJ.js"
+  ],
+  "resources/js/Pages/Chef/Dashboard.vue": [
+    "/build/assets/Dashboard-C6TM3x_y.js"
+  ],
+  "resources/js/Pages/Chef/Profile.vue": [
+    "/build/assets/Profile-DCp6xqJu.js"
+  ],
+  "resources/js/Pages/Chef/Profile_edit.vue": [
+    "/build/assets/Profile_edit-Bbp2S3kh.js"
+  ],
+  "resources/js/Pages/Dashboard.vue": [
+    "/build/assets/Dashboard-CNawxInw.js"
+  ],
+  "resources/js/Pages/Profile/Edit.vue": [
+    "/build/assets/Edit-CJoERMHV.js"
+  ],
+  "resources/js/Pages/Profile/Partials/DeleteUserForm.vue": [
+    "/build/assets/DeleteUserForm-JErP_Yl2.js"
+  ],
+  "resources/js/Pages/Profile/Partials/UpdatePasswordForm.vue": [
+    "/build/assets/UpdatePasswordForm-62Fx1gq2.js"
+  ],
+  "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue": [
+    "/build/assets/UpdateProfileInformationForm-BlqLV5MH.js"
+  ],
+  "resources/js/Pages/Recipes/Create.vue": [
+    "/build/assets/Create-CaR_iHDN.js"
+  ],
+  "resources/js/Pages/Recipes/Edit.vue": [
+    "/build/assets/Edit-9nRzyr9r.js",
+    "/build/assets/Edit-U5Et7jVt.css"
+  ],
+  "resources/js/Pages/Recipes/Edit.vue?vue&type=style&index=0&scoped=aa9d6c20&lang.css": [
+    "/build/assets/Edit-9nRzyr9r.js",
+    "/build/assets/Edit-U5Et7jVt.css"
+  ],
+  "resources/js/Pages/Recipes/Index.vue": [
+    "/build/assets/Index-diTlImkS.js",
+    "/build/assets/Index-DW5ffyQo.css"
+  ],
+  "resources/js/Pages/Recipes/Index.vue?vue&type=style&index=0&scoped=bf3178b6&lang.css": [
+    "/build/assets/Index-diTlImkS.js",
+    "/build/assets/Index-DW5ffyQo.css"
+  ],
+  "resources/js/Pages/Recipes/Show.vue": [
+    "/build/assets/Show-6hzQL-oZ.js",
+    "/build/assets/Show-CmkfNqlR.css"
+  ],
+  "resources/js/Pages/Recipes/Show.vue?vue&type=style&index=0&scoped=b6dcef29&lang.css": [
+    "/build/assets/Show-6hzQL-oZ.js",
+    "/build/assets/Show-CmkfNqlR.css"
+  ],
+  "resources/js/Pages/Reviews/Create.vue": [
+    "/build/assets/Create-ni2BCv8S.js"
+  ],
+  "resources/js/Pages/Reviews/Edit.vue": [
+    "/build/assets/Edit-DxW6G8do.js"
+  ],
+  "resources/js/Pages/Reviews/Index.vue": [
+    "/build/assets/Index-BwJHLkBi.js"
+  ],
+  "resources/js/Pages/Reviews/Show.vue": [
+    "/build/assets/Show-C9cRKF_V.js"
+  ],
+  "resources/js/Pages/Users/Create.vue": [
+    "/build/assets/Create-C8P4t5LA.js"
+  ],
+  "resources/js/Pages/Users/Edit.vue": [
+    "/build/assets/Edit-BRmwgFsJ.js"
+  ],
+  "resources/js/Pages/Users/Index.vue": [
+    "/build/assets/Index-CZ3DW-eg.js"
+  ],
+  "resources/js/Pages/Users/Show.vue": [
+    "/build/assets/Show-D9yGddwm.js"
+  ],
+  "resources/js/Pages/Webpages/AboutUs.vue": [
+    "/build/assets/AboutUs-BYhUx_6e.js"
+  ],
+  "resources/js/Pages/Webpages/Recipes.vue": [
+    "/build/assets/Recipes-CXedw4f6.js",
+    "/build/assets/Recipes-CWl0HzZ4.css"
+  ],
+  "resources/js/Pages/Webpages/Recipes.vue?vue&type=style&index=0&scoped=4119a8e4&lang.css": [
+    "/build/assets/Recipes-CXedw4f6.js",
+    "/build/assets/Recipes-CWl0HzZ4.css"
+  ],
+  "resources/js/Pages/Webpages/ViewRecipe.vue": [
+    "/build/assets/ViewRecipe-BCwdmbWA.js",
+    "/build/assets/ViewRecipe-B-TJ2cwl.css"
+  ],
+  "resources/js/Pages/Webpages/ViewRecipe.vue?vue&type=style&index=0&scoped=0b6c262c&lang.css": [
+    "/build/assets/ViewRecipe-BCwdmbWA.js",
+    "/build/assets/ViewRecipe-B-TJ2cwl.css"
+  ],
+  "resources/js/Pages/Webpages/sample.vue": [
+    "/build/assets/sample-CEjkDcOu.js",
+    "/build/assets/ViewRecipe-B-TJ2cwl.css"
+  ],
+  "resources/js/Pages/Webpages/sample.vue?vue&type=style&index=0&scoped=b4c8151e&lang.css": [
+    "/build/assets/sample-CEjkDcOu.js",
+    "/build/assets/ViewRecipe-B-TJ2cwl.css"
+  ],
+  "resources/js/Pages/Webpages/sample2.vue": [
+    "/build/assets/sample2-Ch9T3cnB.js"
+  ],
+  "resources/js/Pages/Welcome.vue": [
+    "/build/assets/Welcome-DFkA2H84.js"
+  ],
+  "resources/js/ssr.js": [],
+  "vendor/tightenco/ziggy/dist/index.js": []
+}
